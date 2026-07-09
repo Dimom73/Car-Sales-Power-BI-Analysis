@@ -1,0 +1,11 @@
+# Power BI temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python/cache files if used later
+__pycache__/
+.ipynb_checkpoints/
